@@ -12,4 +12,4 @@
 
 6. Prossiga selecionando mais pares de cartas e repita o processo.
 
-7. Desafie-se a aprimorar suas habilidades de correspondência e divirta-se!
+7. Desafie-se a aprimorar suas habilidades de memorização e divirta-se!
