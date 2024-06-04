@@ -6,7 +6,7 @@
 
 3. Utilize seus conhecimentos para selecionar as cartas que você acredita serem correspondentes.
 
-4. Posicione uma carta e logo após a outra no sensor
+4. Posicione uma carta e logo após a outra no sensor.
 
 5. Se o LED verde acender, a correspondência está correta; se o LED vermelho acender, a correspondência está incorreta.
 
