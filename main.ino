@@ -1,3 +1,8 @@
+/**
+ * Bibliotecas utilizadas:
+ *  - SPI.h: para comunicação serial síncrona via protocolo SPI
+ *  - MFRC522.h: para trabalhar com o módulo de leitura de cartões RFID MFRC522
+ */
 #include <SPI.h>
 #include <MFRC522.h>
 
